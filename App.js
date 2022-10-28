@@ -1,6 +1,6 @@
 /*
 Yulia Flenova
-Cat Life 
+Cat Life  boo
 Version 1.6 (6 previous tries to get it to where it is)
 */
 import React, { useState, useEffect} from "react";
